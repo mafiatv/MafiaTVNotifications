@@ -1,0 +1,30 @@
+mess1 mess2
+
+ANNOUNCEMENTWINDOW ="OFF"
+
+<item>
+<new>mess2</new>
+<message1>Videos not playing for you on live section</message1>
+<message2>and movies go to Fixes section to fix issue</message2>
+<message3>Fixes Resolvers script errors</message3>
+<ANNOUNCEMENT>[B]Version 1.3.9[/B]</ANNOUNCEMENT>
+<old>mess1</old>
+</item>
+
+video1 video2 </mu>
+
+
+<vid>
+<new>video1</new>
+<video>XTRIHuw3iic</video>
+<old>video2</old>
+</vid>
+
+
+VIPLISTER ="1"
+
+#################AutoUpdater##Settings#############################
+AutoSource= github or bitbucket
+UpdateOption= original or gitupdate1 or gitupdate2
+
+<AutoSource>github</AutoSource><UpdateOption>gitupdate2</UpdateOption>
